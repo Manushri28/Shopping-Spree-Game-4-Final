@@ -22,38 +22,38 @@ var interval;
 
 function preload() {
     
-  bg = loadImage("images/bg.png");
+  bg = loadImage("bg.png");
   // bg2 = loadImage("images/bg2.png");
 
-  timeOutSound = loadSound("sounds/checkPoint.mp3");
-  tick = loadSound("sounds/Tick.mp3");
+  timeOutSound = loadSound("checkPoint.mp3");
+  tick = loadSound("Tick.mp3");
 
-  dinnerTable = loadImage("images/houseTable.jpg");
+  dinnerTable = loadImage("houseTable.jpg");
 
-  runnerIMG = loadImage("images/girl.jpg");
+  runnerIMG = loadImage("girl.jpg");
 
-  shop1IMG = loadImage("shopImages/shop1IMG.png")
-  shop2IMG = loadImage("shopImages/shop2IMG.png")
-  shop3IMG = loadImage("shopImages/shop3IMG.png")
-  shop4IMG = loadImage("shopImages/shop4IMG.png")
-  shop5IMG = loadImage("shopImages/shop5IMG.png")
-  shop6IMG = loadImage("shopImages/shop6IMG.png")
-  shop7IMG = loadImage("shopImages/shop7IMG.png")
-  shop8IMG = loadImage("shopImages/shop8IMG.png")
-  shop9IMG = loadImage("shopImages/shop9IMG.png")
+  shop1IMG = loadImage("shop1IMG.png")
+  shop2IMG = loadImage("shop2IMG.png")
+  shop3IMG = loadImage("shop3IMG.png")
+  shop4IMG = loadImage("shop4IMG.png")
+  shop5IMG = loadImage("shop5IMG.png")
+  shop6IMG = loadImage("shop6IMG.png")
+  shop7IMG = loadImage("shop7IMG.png")
+  shop8IMG = loadImage("shop8IMG.png")
+  shop9IMG = loadImage("shop9IMG.png")
 
-  item1IMG = loadImage("images/pizza.jpg")
-  item2IMG = loadImage("images/biscuits.jpg")
-  item3IMG = loadImage("images/burger.jpg")
-  item4IMG = loadImage("images/candyFloss.png")
-  item5IMG = loadImage("images/choco.png")
-  item6IMG = loadImage("images/chocoCake.jpg")
-  item7IMG = loadImage("images/donought.jpg")
-  item8IMG = loadImage("images/fries.png")
-  item9IMG = loadImage("images/iceCream.png")
-  item10IMG = loadImage("images/macaroons.jpg")
-  item11IMG = loadImage("images/marshmallows.png")
-  item12IMG = loadImage("images/strawberry.jpg")
+  item1IMG = loadImage("pizza.jpg")
+  item2IMG = loadImage("biscuits.jpg")
+  item3IMG = loadImage("burger.jpg")
+  item4IMG = loadImage("candyFloss.png")
+  item5IMG = loadImage("choco.png")
+  item6IMG = loadImage("chocoCake.jpg")
+  item7IMG = loadImage("donought.jpg")
+  item8IMG = loadImage("fries.png")
+  item9IMG = loadImage("iceCream.png")
+  item10IMG = loadImage("macaroons.jpg")
+  item11IMG = loadImage("marshmallows.png")
+  item12IMG = loadImage("strawberry.jpg")
 
 
 }
